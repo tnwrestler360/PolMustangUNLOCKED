@@ -1,0 +1,1 @@
+If you would like to change the red stripe on the car to black, replace the oem_ford_mustangmach1red_1_diff file in the YTD.
